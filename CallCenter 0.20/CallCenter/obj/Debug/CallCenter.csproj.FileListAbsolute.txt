@@ -1,0 +1,161 @@
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\bin\Debug\CallCenter.exe.config
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\bin\Debug\CallCenter.exe
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\bin\Debug\CallCenter.pdb
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\bin\Debug\MetroFramework.dll
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\obj\Debug\CallCenter.Form1.resources
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\obj\Debug\CallCenter.Properties.Resources.resources
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.GenerateResource.Cache
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\obj\Debug\CallCenter.exe
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\obj\Debug\CallCenter.Registration.resources
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\obj\Debug\CallCenter.Form3.resources
+C:\Users\Ahmed KS\Desktop\C#_Project\CallCenter\CallCenter\obj\Debug\CallCenter.Form4.resources
+C:\Users\student\Desktop\CallCenter\CallCenter\bin\Debug\CallCenter.exe.config
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.exe
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\student\Desktop\CallCenter\CallCenter\bin\Debug\CallCenter.exe
+C:\Users\student\Desktop\CallCenter\CallCenter\bin\Debug\CallCenter.pdb
+C:\Users\student\Desktop\CallCenter\CallCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\student\Desktop\CallCenter\CallCenter\bin\Debug\MetroFramework.dll
+C:\Users\student\Desktop\CallCenter\CallCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.Form1.resources
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.Registration.resources
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.Form3.resources
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.Form4.resources
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.Properties.Resources.resources
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.Form5.resources
+C:\Users\student\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.Form6.resources
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\bin\Debug\CallCenter.exe.config
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.exe
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.Registration.resources
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.Properties.Resources.resources
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.GenerateResource.Cache
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\bin\Debug\CallCenter.exe
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\bin\Debug\CallCenter.pdb
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\bin\Debug\MetroFramework.dll
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.LoginUI.resources
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.RegistrationUI.resources
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.AdminPanelUI.resources
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.EmployeeUI.resources
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.CustomerUI.resources
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.ViewProfileUI.resources
+C:\Users\IceFrog\Desktop\CallCenter\CallCenter\obj\Debug\CallCenter.CallUI.resources
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\CallCenter.exe.config
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.exe
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\CallCenter.exe
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\CallCenter.pdb
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\MetroFramework.dll
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.CallUI.resources
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.LoginUI.resources
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.Registration.resources
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.RegistrationUI.resources
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.AdminPanelUI.resources
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.EmployeeUI.resources
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.CustomerUI.resources
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.ViewProfileUI.resources
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.Properties.Resources.resources
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\obj\Debug\CallCenter.csproj.GenerateResource.Cache
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\Database1.mdf
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\Database1_log.ldf
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\EntityFramework.dll
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\EntityFramework.xml
+C:\Users\hrahm\Desktop\CallCenter 0.1\CallCenter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\CallCenter.exe.config
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.exe
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\Database1.mdf
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\Database1_log.ldf
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\CallCenter.exe
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\CallCenter.pdb
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\MetroFramework.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\EntityFramework.xml
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.CallUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.LoginUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.Registration.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.RegistrationUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.AdminPanelUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.EmployeeUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.CustomerUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.ViewProfileUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.Properties.Resources.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.csproj.GenerateResource.Cache
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.11\CallCenter\obj\Debug\CallCenter.RecordUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\CallCenter.exe.config
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.exe
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\Database1.mdf
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\Database1_log.ldf
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\CallCenter.exe
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\CallCenter.pdb
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\MetroFramework.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\EntityFramework.xml
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.CallUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.RecordUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.LoginUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.Registration.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.RegistrationUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.AdminPanelUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.EmployeeUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.CustomerUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.ViewProfileUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.Properties.Resources.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.csproj.GenerateResource.Cache
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.15\CallCenter\obj\Debug\CallCenter.UserList.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\CallCenter.exe.config
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.exe
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\Database1.mdf
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\Database1_log.ldf
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\CallCenter.exe
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\CallCenter.pdb
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\MetroFramework.Design.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\MetroFramework.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\EntityFramework.xml
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.csprojResolveAssemblyReference.cache
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.RecordUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.LoginUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.Registration.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.RegistrationUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.AdminPanelUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.EmployeeUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.CustomerUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.UserList.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.ViewProfileUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.Properties.Resources.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.csproj.GenerateResource.Cache
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.Chat.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.ADDPROJECT.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.View_Project.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.AssignProject.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.ViewProjectUI.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.Recorded_Conversations.resources
+C:\Users\IceFrog\Desktop\C#\CallCenter 0.20\CallCenter\obj\Debug\CallCenter.View_Report.resources
